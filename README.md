@@ -21,3 +21,5 @@ Gemma-2b
     
 ```
 
+全文参考博客：https://ganymedenil.com/2024/03/24/Google-Gemma-2B-fine-tuning-practice-IT-technology-news-headline-generation.html
+
